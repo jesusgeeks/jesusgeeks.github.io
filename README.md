@@ -1,5 +1,4 @@
 ## JesusGeeks: people doing marvelous things with code and technology (for Christ). 
-## jesusgeeks.github.io
 
 # about
 ## JesusGeeks is a biweekly gathering for coders of faith who earnestly desire to grow in their relationship with Jesus. Whether a coding novice or one who constantly seeks to master his or her craft, we will explore programming languages, software and other technologies via activities such as short courses, demo days, sprint/hackathons and retreats all aimed at personal growth and contribution to NYC and the global community. 
