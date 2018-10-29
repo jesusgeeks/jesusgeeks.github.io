@@ -1,4 +1,4 @@
-#JesusGeeks: people doing marvelous things with code and technology (for Christ). 
+## JesusGeeks: people doing marvelous things with code and technology (for Christ). 
 ## jesusgeeks.github.io
 
 # about
