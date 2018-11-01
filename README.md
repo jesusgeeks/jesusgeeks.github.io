@@ -14,7 +14,7 @@
 
 # schedule
 ## We meet every other Friday for talks and short courses at Times Square Church in Manhattan [https://tsc.nyc] (specific meeting location is disclosed to members). Join by sending a note to the group leader via the following: [https://tsc.groupvitals.com/groupFinder/profile/28438] 
-## On one or two Saturdays a month, we gather for challenges, brainstorming and sprints/hackathons where you can collaborate on new and existing projects, participate in open office hours and show your stuff. 
+## On designated days, we gather for challenges, brainstorming and sprints/hackathons where you can collaborate on new and existing projects, participate in open office hours and show your stuff. 
 
 # other stuff
 ## We will also announce partnerships and opportunities that connect the greater community in Christ. 
