@@ -1,7 +1,7 @@
 ## JesusGeeks: people doing marvelous things with code and technology (for Christ). 
 
 # about
-## JesusGeeks is a biweekly gathering for coders of faith who earnestly desire to grow in their relationship with Jesus. Whether a coding novice or one who constantly seeks to master his or her craft, we will explore programming languages, software and other technologies via activities such as short courses, demo days, sprint/hackathons and retreats all aimed at personal growth and contribution to NYC and the global community. 
+## JesusGeeks is facilitates discipleship and fellowship for coders and Christian creatives of faith in Christ Jesus. Whether a coding novice or one who constantly seeks to master his or her craft, we will explore programming languages, software and other technologies via activities such as short courses, demo days, sprint/hackathons and retreats all aimed at personal growth and contribution to NYC and the global community. 
 
 # activities
 ## Fancy making a charity app— while touring London? Looking to design your first smart watch dinner-bot? Perhaps you want to learn how to use APIs and libraries to create a map that beautifully visualizes all left-handed people with pet deer north of Times Square (in real time)? 
@@ -13,7 +13,6 @@
 ## We offer a safe, welcoming environment to develop your best geeky self. We won’t get into flame wars over languages, operating systems, platforms or which part of the stack (toolset) to develop for. JesusGeeks will encourage you to learn and grow against yourself at your own pace. 
 
 # schedule
-## We meet every other Friday for talks and short courses at Times Square Church in Manhattan [https://tsc.nyc] (specific meeting location is disclosed to members). Join by sending a note to the group leader via the following: [https://tsc.groupvitals.com/groupFinder/profile/28438] 
 ## On designated days, we gather for challenges, brainstorming and sprints/hackathons where you can collaborate on new and existing projects, participate in open office hours and show your stuff. 
 
 # other stuff
