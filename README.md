@@ -1,7 +1,7 @@
 ## JesusGeeks: people doing marvelous things with code and technology (for Christ). 
 
 # about
-## JesusGeeks is facilitates discipleship and fellowship for coders and Christian creatives of faith in Christ Jesus. Whether a coding novice or one who constantly seeks to master his or her craft, we will explore programming languages, software and other technologies via activities such as short courses, demo days, sprint/hackathons and retreats all aimed at personal growth and contribution to NYC and the global community. 
+## JesusGeeks facilitates discipleship and fellowship for coders and Christian creatives of faith in Christ Jesus. Whether a coding novice or one who constantly seeks to master his or her craft, we will explore programming languages, software and other technologies via activities such as short courses, demo days, sprint/hackathons and retreats all aimed at personal growth and contribution to NYC and the global community. 
 
 # activities
 ## Fancy making a charity app— while touring London? Looking to design your first smart watch dinner-bot? Perhaps you want to learn how to use APIs and libraries to create a map that beautifully visualizes all left-handed people with pet deer north of Times Square (in real time)? 
